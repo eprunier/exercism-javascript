@@ -1,3 +1,5 @@
 # exercism-javascript
 
-[Exercism](http://exercism.io)'s **Javascript** track
+My solutions to the [Exercism](http://exercism.io)'s Javascript track
+
+![Exercism Logo](exercism.png)
